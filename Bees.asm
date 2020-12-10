@@ -1874,8 +1874,8 @@ STRIP1          sta WSYNC
                 lda #%11111111
                 sta PF2
                 
-		lda #$1E
-                sta COLUPF             ; set the playfield color YELLOW
+		lda #$0E
+                sta COLUPF             ; set the playfield color WHITE
                 
                 lda #%11110000
                 sta PF0
@@ -1910,8 +1910,8 @@ STRIP1          sta WSYNC
                 lda #%11111111
                 sta PF2
                 
-		lda #$1E
-                sta COLUPF             ; set the playfield color YELLOW
+		lda #$0E
+                sta COLUPF             ; set the playfield color WHITE
                 
                 lda #%11110000
                 sta PF0
@@ -1946,8 +1946,8 @@ STRIP1          sta WSYNC
                 lda #%11111111
                 sta PF2
                 
-		lda #$1E
-                sta COLUPF             ; set the playfield color YELLOW
+		lda #$0E
+                sta COLUPF             ; set the playfield color WHITE
                 
                 lda #%11110000
                 sta PF0
@@ -1982,8 +1982,8 @@ STRIP1          sta WSYNC
                 lda #%11111111
                 sta PF2
                 
-		lda #$1E
-                sta COLUPF             ; set the playfield color YELLOW
+		lda #$0E
+                sta COLUPF             ; set the playfield color WHITE
                 
                 lda #%11110000
                 sta PF0
@@ -2018,8 +2018,8 @@ STRIP1          sta WSYNC
                 lda #%11111111
                 sta PF2
                 
-		lda #$1E
-                sta COLUPF             ; set the playfield color YELLOW
+		lda #$0E
+                sta COLUPF             ; set the playfield color WHITE
                 
                 lda #%11110000
                 sta PF0
@@ -2054,8 +2054,8 @@ STRIP1          sta WSYNC
                 lda #%11111111
                 sta PF2
                 
-		lda #$1E
-                sta COLUPF             ; set the playfield color YELLOW
+		lda #$0E
+                sta COLUPF             ; set the playfield color WHITE
                 
                 lda #%11110000
                 sta PF0
@@ -2090,8 +2090,8 @@ STRIP1          sta WSYNC
                 lda #%11111111
                 sta PF2
                 
-		lda #$1E
-                sta COLUPF             ; set the playfield color YELLOW
+		lda #$0E
+                sta COLUPF             ; set the playfield color WHITE
                 
                 lda #%11110000
                 sta PF0
@@ -2126,8 +2126,8 @@ STRIP1          sta WSYNC
                 lda #%11111111
                 sta PF2
                 
-		lda #$1E
-                sta COLUPF             ; set the playfield color YELLOW
+		lda #$0E
+                sta COLUPF             ; set the playfield color WHITE
                 
                 lda #%11110000
                 sta PF0
@@ -2162,8 +2162,8 @@ STRIP1          sta WSYNC
                 lda #%11111111
                 sta PF2
                 
-		lda #$1E
-                sta COLUPF             ; set the playfield color YELLOW
+		lda #$0E
+                sta COLUPF             ; set the playfield color WHITE
                 
                 lda #%11110000
                 sta PF0
@@ -2198,8 +2198,8 @@ STRIP1          sta WSYNC
                 lda #%11111111
                 sta PF2
                 
-		lda #$1E
-                sta COLUPF             ; set the playfield color YELLOW
+		lda #$0E
+                sta COLUPF             ; set the playfield color WHITE
                 
                 lda #%11110000
                 sta PF0
@@ -2234,8 +2234,8 @@ STRIP1          sta WSYNC
                 lda #%11111111
                 sta PF2
                 
-		lda #$1E
-                sta COLUPF             ; set the playfield color YELLOW
+		lda #$0E
+                sta COLUPF             ; set the playfield color WHITE
                 
                 lda #%11110000
                 sta PF0
