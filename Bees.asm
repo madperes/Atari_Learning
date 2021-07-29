@@ -1,6 +1,5 @@
 ; '2600 Atari
 ; BEES Playfield
-; AbInbev - Beertech
 ; December/2020
 ; Author: Marcos Adriani Peres
 ; https://8bitworkshop.com/
